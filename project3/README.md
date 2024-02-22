@@ -7,7 +7,9 @@ Demo Link: https://drive.google.com/file/d/1tuSOfbdbSnwBJSedrpRmMQt09t8ZlfhW
 
 ### To run the code, user need to download the whole ./project3/bookcover folder and open it in Unity, or open the unity project ./project3/bookcover/Assets/bookcover.unity 
 
-Front and back images of the book and two of the scripts are added to the repo:
+![front.jpg](front.jpg)    ![back.jpg](back.jpg)
+
+Front and back images (above) of the book and two of the scripts are added to the repo:
 
   1) btn.cs
         
