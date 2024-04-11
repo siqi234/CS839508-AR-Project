@@ -3,10 +3,10 @@
 Welcome to the Virtual Zoo, an immersive Augmented Reality (AR) application designed to bring the fascinating world of wildlife into your home. This project aims to create an engaging and educational experience that allows users to interact with a variety of animals right in their own living spaces. With the Virtual Zoo, you're not just observing; you're participating in a dynamic, interactive ecosystem where learning and discovery happen seamlessly as you move through your environment.
 
 ### Features:
-- Interactive Animal Encounters: Explore a diverse range of animals that appear in your space. Each encounter offers a unique interaction, allowing you to observe the animals as they move and behave in a lifelike manner.
-- Educational Insights: With every animal that appears, users receive informative insights detailing the species' name, natural habitat, diet, and conservation status, enriching the understanding of the animal kingdom.
-- Dynamic Exploration: Animals appear one by one as you navigate your home, simulating a real zoo visit. This feature encourages physical activity and curiosity, making each step an opportunity for a new discovery.
-- Customizable Experience: Users have the freedom to manage their virtual zoo environment. You can choose to remove an animal from your space and summon another, tailoring the experience to your interests.
+- Random Animal Appearances: As you explore different virtual habitats (forest, ocean, safari), animals appropriate to these environments will appear randomly. This simulates a more natural and spontaneous encounter with wildlife, similar to real-world exploration.
+- Interactive Animal Encounters: Interact with a variety of animals that seamlessly appear in your space. Each encounter allows you to observe lifelike movements and behaviors, providing a realistic and dynamic viewing experience.
+- Educational Insights: Receive detailed information about each animal, including species name, natural habitat, diet, and conservation status. This feature enriches your understanding and appreciation of the diverse animal kingdom.
+- Dynamic Exploration: The appearance of animals as you navigate through your home mimics a real zoo visit and is designed to stimulate physical activity and enhance curiosity. Each step is a chance to discover something new.
 
 ### Technology and APIs:
 
