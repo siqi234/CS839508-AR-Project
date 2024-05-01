@@ -19,8 +19,8 @@ The core mission of Virtual Zoo is to enhance appreciation for wildlife and to e
 #### **Unity Screenshot**: 
 <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot1.png" width="320" alt="forest"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot3.png" width="250" alt="sea"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot2.png" width="220" alt="africa_safari"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot4.png" width="800" alt="simulator">
 
-
-
+### [Video Demonstration]()
+### [Project Download](https://drive.google.com/drive/folders/1EwKhYRtIfYsdVG_s9_jWL1CMt3va61Np?usp=sharing)
 
 ### Design Process:
 -  **Conceptualization**: Inspired by the potential of AR to revolutionize learning, the idea for Virtual Zoo was born. The goal was to create an educational tool that allowed users to explore and interact with wildlife in a whole new way.
