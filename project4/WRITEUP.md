@@ -2,7 +2,7 @@
 
 This is document is a writeup of the project 4.
 
-Virtual Zoo pioneers an immersive Augmented Reality (AR) experience, transforming any room into a dynamic animal habitat. This innovative project utilizes cutting-edge technology to foster educational interactions and promote wildlife conservation. Developed using **Unity** and **Vuforia**, and supported by **Android 12 SDK**, Virtual Zoo brings the animal kingdom into the homes of users, offering an engaging and informative platform that is accessible to all ages. 
+The Virtual Zoo pioneers an immersive Augmented Reality (AR) experience, transforming any room into a dynamic animal habitat. This innovative project utilizes cutting-edge technology to foster educational interactions and promote wildlife conservation. Developed using **Unity** and **Vuforia**, and supported by **Android 12 SDK**, Virtual Zoo brings the animal kingdom into the homes of users, offering an engaging and informative platform that is accessible to all ages. 
 
 ### Project Goal:
 The core mission of Virtual Zoo is to enhance appreciation for wildlife and to educate users on the importance of conservation efforts worldwide. This project seeks to connect people with nature and encourage empathy towards animals and their ecosystems through interactive and immersive learning experiences.
