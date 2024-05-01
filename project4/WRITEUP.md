@@ -8,7 +8,16 @@ Virtual Zoo pioneers an immersive Augmented Reality (AR) experience, transformin
 The core mission of Virtual Zoo is to enhance appreciation for wildlife and to educate users on the importance of conservation efforts worldwide. This project seeks to connect people with nature and encourage empathy towards animals and their ecosystems through interactive and immersive learning experiences.
 
 ### Project Interface
-![Forest](https://github.com/siqi234/CS839508-AR-Project/project4/img/Forest.png)
+#### **Tracked Images**: 
+
+<img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Forest.png" width="250" alt="forest"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Sea.png" width="250" alt="sea"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Safari.png" width="250" alt="africa_safari">
+
+#### **App Snapshot**: 
+
+
+
+#### **Unity Screenshot**: 
+<img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot1.png" width="320" alt="forest"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot3.png" width="250" alt="sea"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot2.png" width="220" alt="africa_safari"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Screenshot4.png" width="800" alt="simulator">
 
 
 
@@ -44,3 +53,17 @@ I am particularly proud of how I've managed to simulate natural animal behaviors
 Looking ahead, I am excited about the potential enhancements for the Virtual Zoo, including expanding the variety of animals and improving their animations to make interactions even more realistic. The positive feedback from users has been incredibly rewarding, reaffirming my commitment to enhancing the educational aspects of the app and exploring further possibilities within AR.
 
 As I reflect on the development process and the launch of Virtual Zoo, I am reminded of the power of technology to transform educational experiences and foster a deeper connection with the natural world. This project has not only advanced my professional skills but has also deepened my understanding of the vital role that education plays in conservation efforts. I look forward to continuing this journey, driven by innovation, education, and a profound respect for wildlife.
+
+
+### Reference
+https://youtu.be/j7-xqwW6Xqc?si=3T_J0k5gMn-8gkCW
+
+https://youtu.be/gpaq5bAjya8?si=kwwV7_V0fiXxu-HC
+
+https://youtu.be/uXNjNcqW4kY?si=TXFWXBWd9nhtKTuB
+
+https://developer.vuforia.com/library/
+
+Bilek, O., Krejcar, O. (2015). Development of Augmented Reality Application on Android OS. In: Donnellan, B., Helfert, M., Kenneally, J., VanderMeer, D., Rothenberger, M., Winter, R. (eds) New Horizons in Design Science: Broadening the Research Agenda. DESRIST 2015. Lecture Notes in Computer Science(), vol 9073. Springer, Cham. https://doi.org/10.1007/978-3-319-18714-3_42
+
+
