@@ -13,7 +13,7 @@ The core mission of Virtual Zoo is to enhance appreciation for wildlife and to e
 <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Forest.png" width="250" alt="forest"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Sea.png" width="250" alt="sea"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/Safari.png" width="250" alt="africa_safari">
 
 #### **App Snapshot**: 
-<img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (1).jpg" width="800" alt="2"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (3).jpg" width="800" alt="3"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (4).jpg" width="800" alt="4"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (2).jpg" width="500" alt="1">
+<img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (1).jpg" width="500" alt="2"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (3).jpg" width="500" alt="3"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (4).jpg" width="500" alt="4">  <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (5).jpg" width="500" alt="1"> <img src="https://github.com/siqi234/CS839508-AR-Project/blob/main/project4/img/snapshot (2).jpg" width="500" alt="1">
 
 
 #### **Unity Screenshot**: 
