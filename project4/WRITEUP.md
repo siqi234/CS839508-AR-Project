@@ -8,9 +8,7 @@ Virtual Zoo pioneers an immersive Augmented Reality (AR) experience, transformin
 The core mission of Virtual Zoo is to enhance appreciation for wildlife and to educate users on the importance of conservation efforts worldwide. This project seeks to connect people with nature and encourage empathy towards animals and their ecosystems through interactive and immersive learning experiences.
 
 ### Project Interface
-![park_3175232](https://github.com/siqi234/CS839508-AR-Project/assets/106114777/5448feab-76e9-4c44-b7aa-8c09bd9b0df8)
-![sea_14064341](https://github.com/siqi234/CS839508-AR-Project/assets/106114777/e79ff1d7-1596-4a5e-bc79-500bd1b90df8)
-![africa_865046](https://github.com/siqi234/CS839508-AR-Project/assets/106114777/71a04681-c42f-461c-8ec7-b45bf8173250)
+
 
 
 ### Design Process:
